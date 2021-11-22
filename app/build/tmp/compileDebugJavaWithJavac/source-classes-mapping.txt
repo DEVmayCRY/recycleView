@@ -1,0 +1,2 @@
+com/komat/recycleview/BuildConfig.java
+ com.komat.recycleview.BuildConfig
